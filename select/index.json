@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Drum Show",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T06:32:37.016558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drum Show",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/01_Drum_Show_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drum Show",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/02_Drum_Show_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drum Show",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/03_Drum_Show_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drum Show",
+      "artist": "Twenty One Pilots",
+      "has_synced": false,
+      "path": "select/pl_01_Drum_Show_Twenty_One_Pilots.txt"
+    }
+  ]
+}
